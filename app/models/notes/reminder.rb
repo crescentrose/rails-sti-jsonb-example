@@ -1,0 +1,2 @@
+class Reminder < Note
+end
